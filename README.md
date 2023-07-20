@@ -1,4 +1,5 @@
 Detecting Communities in Social Networks Problem
+
 To improve the performance of social networks in customer segmentation, targeting, and utilizing available information in social networks to achieve the maximum benefit from this information and complexity existing in these networks, advanced tools and techniques are required, and practically, it is impossible to do it manually.
 
  
@@ -11,8 +12,6 @@ Processes, methods, and algorithms used to identify and classify communities in 
 
 For example, special algorithms have been proposed for directed graphs, or algorithms proposed for undirected graphs are adapted to be used in directed graphs. Similarly, different algorithms have been proposed for weighted graphs or other types of graphs to be compatible with this type of graph. In addition to the type of graph, which determines the type of algorithm used, the communities themselves can be divided into two types: overlapping and non-overlapping. The graphs related to social networks are generally those graphs in which overlapping is allowed, which means that a node can be inside several communities.
 
-For more information on the problem of detecting communities in social networks, please refer to the accompanying article file that comes with the project.”
-"# SocialCommunityDetectorGA
 
 #-----------------------------------------------#
 For run this project you just need to run "GA-Main.py" file.
